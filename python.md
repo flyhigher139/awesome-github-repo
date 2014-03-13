@@ -27,8 +27,8 @@ GitHub Starred Projects
 [djangobook.com](https://github.com/jacobian/djangobook.com)
 - http://www.djangobook.com/
 
-[nginx-book](https://github.com/taobao/nginx-book)
-- Nginx开发从入门到精通
+[flask-dev-bookmarks](https://github.com/humiaozuzu/flask-dev-bookmarks)
+- Lists of flask development recourses
 
 <br><br>
 [python-patterns](https://github.com/faif/python-patterns)
