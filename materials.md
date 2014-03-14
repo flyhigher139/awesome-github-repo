@@ -21,11 +21,25 @@ GitHub Starred Projects
 - API Blueprint 
 http://apiblueprint.org
 
+[Code_Guide](https://github.com/Suxiaogang/Code_Guide)
+- Code guide and best practice
+
 
 ## python 
 
 [flask-dev-bookmarks](https://github.com/humiaozuzu/flask-dev-bookmarks)
 - Lists of flask development recourses
+
+[PyZh](https://github.com/hit9/PyZh)
+- 一起写Python文章，一起看Python文章 - 利用readthedocs的Python技术文章的收集和翻译
+
+[explore-flask](https://github.com/rpicard/explore-flask)
+- Source of Explore Flask book
+
+## Algorithm
+
+[The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)
+- 本项目是Csdn博客「结构之法 算法之道」的部分经典博文的github版本
 
 
 ## Javascript
@@ -62,12 +76,19 @@ http://guides.thecodepath.com/
 [objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide)
 - A style guide that outlines the coding conventions for raywenderlich.com
 
+## database
+
+[the-little-mongodb-book](https://github.com/karlseguin/the-little-mongodb-book)
+- The Little MongoDB Book
 
 ## nginx
 [nginx-book](https://github.com/taobao/nginx-book)
 - Nginx开发从入门到精通
 
+## other
 
+[kaiyuanbook](https://github.com/larrycai/kaiyuanbook)
+- How to write opensource books
 
 
 

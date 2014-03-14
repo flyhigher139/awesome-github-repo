@@ -30,6 +30,13 @@ GitHub Starred Projects
 [flask-dev-bookmarks](https://github.com/humiaozuzu/flask-dev-bookmarks)
 - Lists of flask development recourses
 
+[PyZh](https://github.com/hit9/PyZh)
+- 一起写Python文章，一起看Python文章 - 利用readthedocs的Python技术文章的收集和翻译
+
+[explore-flask](https://github.com/rpicard/explore-flask)
+- Source of Explore Flask book
+
+
 <br><br>
 [python-patterns](https://github.com/faif/python-patterns)
 - **A collection of design patterns in python**
