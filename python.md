@@ -15,8 +15,11 @@ GitHub Starred Projects
 <a name='study_meterials'></a>
 
 
-[python_koans](https://github.com/gregmalcolm/python_koans)
-- Python Koans - Learn Python through TDD
+[djangobook.com](https://github.com/jacobian/djangobook.com)
+- http://www.djangobook.com/
+
+[flask-dev-bookmarks](https://github.com/humiaozuzu/flask-dev-bookmarks)
+- Lists of flask development recourses
 
 [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 - An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python
@@ -24,11 +27,11 @@ GitHub Starred Projects
 [python-guide](https://github.com/kennethreitz/python-guide)
 - Python best practices guidebook, written for Humans
 
-[djangobook.com](https://github.com/jacobian/djangobook.com)
-- http://www.djangobook.com/
+[pycrumbs](https://github.com/kirang89/pycrumbs)
+- Bits and bytes of Python from the Internet
 
-[flask-dev-bookmarks](https://github.com/humiaozuzu/flask-dev-bookmarks)
-- Lists of flask development recourses
+[python_koans](https://github.com/gregmalcolm/python_koans)
+- Python Koans - Learn Python through TDD
 
 [PyZh](https://github.com/hit9/PyZh)
 - 一起写Python文章，一起看Python文章 - 利用readthedocs的Python技术文章的收集和翻译
@@ -38,13 +41,12 @@ GitHub Starred Projects
 
 
 <br><br>
-[python-patterns](https://github.com/faif/python-patterns)
-- **A collection of design patterns in python**
 
 [Projects](https://github.com/karan/Projects)
 - Trying to complete over 100 projects in various categories in Python. Fork to learn any new language.
 
-
+[python-patterns](https://github.com/faif/python-patterns)
+- **A collection of design patterns in python**
 
 ---
 
@@ -100,6 +102,9 @@ GitHub Starred Projects
 
 ## flask
 
+[eve](https://github.com/nicolaiarocci/eve)
+- REST API framework powered by Flask, MongoDB and good intentions 
+
 [flask](https://github.com/mitsuhiko/flask)
 - A microframework based on Werkzeug, Jinja2 and good intentions
 
@@ -108,9 +113,6 @@ GitHub Starred Projects
 
 [flask-restful](https://github.com/twilio/flask-restful)
 - Simple framework for creating REST APIs
-
-[eve](https://github.com/nicolaiarocci/eve)
-- REST API framework powered by Flask, MongoDB and good intentions 
 
 
 
