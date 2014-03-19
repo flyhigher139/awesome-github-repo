@@ -1,5 +1,5 @@
-GitHub Starred Projects
-=======================
+GitHub Starred Projects | python
+=================================
 
 #navigation
 

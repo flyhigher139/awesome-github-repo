@@ -5,7 +5,7 @@ Content as follow:
 
 - [study material](materials.md)
 - [python](python.md)
-- javascript
+- [javascript](javascript.md)
 - css
 - ...
 
