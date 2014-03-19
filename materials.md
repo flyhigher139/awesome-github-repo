@@ -1,5 +1,5 @@
-GitHub Starred Projects
-=======================
+GitHub Starred Projects | document
+===================================
 
 ##navigation
 - [collection](#collection)
