@@ -119,77 +119,108 @@ GitHub Starred Projects | python
 
 ## other
 
-[python-twitter](https://github.com/bear/python-twitter)
-- A Python wrapper around the Twitter API
-
-[xml2json](https://github.com/hay/xml2json)
-- Python script converts XML to JSON or the other way around
-
-[pypyodbc](https://github.com/jiangwen365/pypyodbc)
-- A pure Python Cross Platform ODBC interface module
-
-[51dingpiao](https://github.com/huzhifeng/51dingpiao)
-- A python script used to buy ticket on 12306
-
-[httpie](https://github.com/jkbr/httpie)
-- HTTPie is a CLI, cURL-like tool for humans
-
-[readthedocs.org](https://github.com/rtfd/readthedocs.org)
-- https://github.com/rtfd/readthedocs.org
-
-[python-markdown2](https://github.com/trentm/python-markdown2)
-- markdown2: A fast and complete implementation of Markdown in Python
-
-[sandman](https://github.com/jeffknupp/sandman)
-- Sandman "makes things REST".
-
-[pyodbc](https://github.com/mkleehammer/pyodbc)
-- Python ODBC bridge
-
-[evermd](https://github.com/liushuaikobe/evermd)
-- A command line tool that make your markdown file to an Evernote
- 
-[twosheds](https://github.com/Ceasar/twosheds)
-- Hack your shell, in Python
-
-[pyspider](https://github.com/binux/pyspider)
-- A spider system in python(most powerful spider system in python!)
-
-[jieba](https://github.com/fxsjy/jieba)
-- "结巴"中文分词：做最好的Python中文分词组件
-
-[requests](https://github.com/kennethreitz/requests)
-- Python HTTP Requests for Humans
+###e
 
 [essay](https://github.com/SohuTech/essay)
 - Python项目自动化多服务器部署的工具
 
+[evermd](https://github.com/liushuaikobe/evermd)
+- A command line tool that make your markdown file to an Evernote
+ 
+###h
+
+[httpie](https://github.com/jkbr/httpie)
+- HTTPie is a CLI, cURL-like tool for humans
+
+###j
+
+[jieba](https://github.com/fxsjy/jieba)
+- "结巴"中文分词：做最好的Python中文分词组件
+
+
+###m
+
 [marshmallow](https://github.com/sloria/marshmallow)
 - **A lightweight library for converting complex objects into datatypes that can be used in a REST API.**
 
-[scrapy](https://github.com/scrapy/scrapy)
-- Scrapy, a fast high-level screen scraping and web crawling framework for Python.
 
-[python-social-auth](https://github.com/omab/python-social-auth)
-- Social auth made simple 
+###p
 
-[sqlmap](https://github.com/sqlmapproject/sqlmap)
-- Automatic SQL injection and database takeover tool
+[pattern](https://github.com/clips/pattern)
+- Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization. 
+http://www.clips.ua.ac.be/pages/pattern
+
+[pyodbc](https://github.com/mkleehammer/pyodbc)
+- Python ODBC bridge
+
+[pypyodbc](https://github.com/jiangwen365/pypyodbc)
+- A pure Python Cross Platform ODBC interface module
 
 [pyrailgun](https://github.com/princehaku/pyrailgun)
 - Simple And Easy Python Crawl Framework，支持javascript解析的简单实用高效的python网页爬虫抓取模块
 
+[pyspider](https://github.com/binux/pyspider)
+- A spider system in python(most powerful spider system in python!)
+
+[python-markdown2](https://github.com/trentm/python-markdown2)
+- markdown2: A fast and complete implementation of Markdown in Python
+
+[python-social-auth](https://github.com/omab/python-social-auth)
+- Social auth made simple 
+
+[python-twitter](https://github.com/bear/python-twitter)
+- A Python wrapper around the Twitter API
+
+###r
+
+[readthedocs.org](https://github.com/rtfd/readthedocs.org)
+- https://github.com/rtfd/readthedocs.org
+
+[requests](https://github.com/kennethreitz/requests)
+- Python HTTP Requests for Humans
+
+###s
+
+[sandman](https://github.com/jeffknupp/sandman)
+- Sandman "makes things REST".
+
+[schedule](https://github.com/dbader/schedule)
+- Python job scheduling for humans.
+
+[scrapy](https://github.com/scrapy/scrapy)
+- Scrapy, a fast high-level screen scraping and web crawling framework for Python.
+
 [shadowsocks](https://github.com/clowwindy/shadowsocks)
 - a lightweight tunnel proxy which can help you get through firewalls
+
+[sinaweibopy](https://github.com/michaelliao/sinaweibopy)
+- 新浪微博Python SDK
+
+[sqlmap](https://github.com/sqlmapproject/sqlmap)
+- Automatic SQL injection and database takeover tool
+
+
+###t
 
 [tweepy](https://github.com/tweepy/tweepy)
 - Twitter for Python! 
 
+[twosheds](https://github.com/Ceasar/twosheds)
+- Hack your shell, in Python
+
+###v
+
 [v2ex](https://github.com/livid/v2ex)
 - Community running on Google App Engine
 
-[sinaweibopy](https://github.com/michaelliao/sinaweibopy)
-- 新浪微博Python SDK
+
+###x
+
+[xml2json](https://github.com/hay/xml2json)
+- Python script converts XML to JSON or the other way around
+
+[51dingpiao](https://github.com/huzhifeng/51dingpiao)
+- A python script used to buy ticket on 12306
 
 
 

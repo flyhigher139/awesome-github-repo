@@ -10,3 +10,7 @@ GitHub Starred Projects | RaspberryPi
 [coder](https://github.com/googlecreativelab/coder)
 - A simple way to make web stuff on Raspberry Pi 
 http://goo.gl/coder
+
+##other
+[rpi-update](https://github.com/Hexxeh/rpi-update)
+- An easier way to update the firmware of your Raspberry Pi

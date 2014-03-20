@@ -101,6 +101,12 @@ http://guides.thecodepath.com/
 [the-little-mongodb-book](https://github.com/karlseguin/the-little-mongodb-book)
 - The Little MongoDB Book
 
+##git
+
+[progit](https://github.com/progit/progit)
+Pro Git Book Content 
+http://git-scm.com/book/
+
 
 ##javascript
 
@@ -130,6 +136,10 @@ http://html5ify.com/fks/
 [node123](https://github.com/youyudehexie/node123)
 - node.js中文资料导航
 
+[NodeBeginnerBook](https://github.com/manuelkiessling/NodeBeginnerBook)
+- A comprehensive Node.js tutorial for beginners 
+http://www.NodeBeginner.org
+
 [NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning)
 - This page contains collection of curated links to blog posts, articles, etc. to help you learn Node.js and keep up to date.
 
@@ -140,11 +150,22 @@ http://html5ify.com/fks/
 [server-configs-nginx](https://github.com/h5bp/server-configs-nginx)
 - Nginx HTTP server boilerplate configs
 
+##nosql
+
+### mongodb
+
+[the-little-mongodb-book](https://github.com/karlseguin/the-little-mongodb-book)
+- The Little MongoDB Book 
+http://openmymind.net/2011/3/28/The-Little-MongoDB-Book
 
 ##objective-c
 
 [objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide)
 - A style guide that outlines the coding conventions for raywenderlich.com
+
+[objective-c-style-guide](https://github.com/NYTimes/objective-c-style-guide)
+- The Objective-C Style Guide used by The New York Times
+http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/
 
 ##python 
 
@@ -177,6 +198,9 @@ http://html5ify.com/fks/
 
 [base16](https://github.com/chriskempson/base16)
 - Color schemes for hackers
+
+[tomorrow-theme](https://github.com/chriskempson/tomorrow-theme)
+- Tomorrow Theme the precursor to Base16 Theme
 
 
 
