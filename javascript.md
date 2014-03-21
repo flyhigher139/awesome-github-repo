@@ -88,6 +88,10 @@ http://www.kickstarter.com/projects/getify/you-dont-know-js-book-series
 [douban.fm](https://github.com/turingou/douban.fm)
 - a tiny and smart cli player of douban.fm based on Node.js
 
+[express](https://github.com/visionmedia/express)
+- Sinatra inspired web development framework for node.js -- insanely fast, flexible, and simple 
+http://expressjs.com
+
 [marked](https://github.com/chjj/marked)
 - A markdown parser and compiler. Built for speed.
 

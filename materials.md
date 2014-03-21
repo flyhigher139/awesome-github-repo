@@ -85,6 +85,9 @@ http://apiblueprint.org
 - 本项目是Csdn博客「结构之法 算法之道」的部分经典博文的github版本
 
 
+[How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+- How to Make a Computer Operating System in C++
+
 
 ##android
 

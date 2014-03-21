@@ -196,6 +196,9 @@ http://www.clips.ua.ac.be/pages/pattern
 [sinaweibopy](https://github.com/michaelliao/sinaweibopy)
 - 新浪微博Python SDK
 
+[state_machine](https://github.com/jtushman/state_machine)
+- Python State Machine for humans
+
 [sqlmap](https://github.com/sqlmapproject/sqlmap)
 - Automatic SQL injection and database takeover tool
 
@@ -232,4 +235,9 @@ http://www.clips.ua.ac.be/pages/pattern
 - Adafruit library code for Raspberry Pi
 
 
+----------------
+#Something else
+
+[bypy](https://github.com/houtianze/bypy)
+- Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
 
