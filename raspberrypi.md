@@ -11,6 +11,37 @@ GitHub Starred Projects | RaspberryPi
 - A simple way to make web stuff on Raspberry Pi 
 http://goo.gl/coder
 
+##markdown
+
+[kongwu_pi_tips.md](https://gist.github.com/kennyz/4748807)
+- kongwu pi tips
+
+[home_of_robots.md](https://gist.github.com/shuaishuai/5812680)
+- the list is far beyond just a board
+
+[raspberrypi.md](https://gist.github.com/junstrix/5053559)
+- 陆续分享一些攻略,参考...
+
+[rpi-todo.md](https://gist.github.com/vancetran/4711671)
+- A collection of resources, links, and todo items as I tinker with the amazing little Raspberry Pi
+
+[rpi.md](https://gist.github.com/dideler/3394257)
+- Collection of useful Raspberry Pi resources.
+
+[Raspberry Pi setup](https://gist.github.com/jkosoy/5379904)
+- Raspberry Pi setup
+
+[raspberrypi_server.md](https://gist.github.com/stormpython/9502324)
+- Setting up a Home Server with Raspberry Pi
+
+[Raspberry Pi setup routine](https://gist.github.com/thpani/7052861)
+- My Raspberry Pi setup routine
+
+[Node.js for Raspberry Pi](https://gist.github.com/adammw/3245130)
+- Node.js for Raspberry Pi
+
+
+
 ##other
 [rpi-update](https://github.com/Hexxeh/rpi-update)
 - An easier way to update the firmware of your Raspberry Pi

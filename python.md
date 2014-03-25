@@ -45,6 +45,9 @@ GitHub Starred Projects | python
 [Projects](https://github.com/karan/Projects)
 - Trying to complete over 100 projects in various categories in Python. Fork to learn any new language.
 
+[projects](https://github.com/mikar/projects)
+- yet another active version forked from above
+
 [python-patterns](https://github.com/faif/python-patterns)
 - **A collection of design patterns in python**
 
