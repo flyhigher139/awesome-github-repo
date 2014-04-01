@@ -14,6 +14,9 @@ GitHub Starred Projects | JS
 [angular.js](https://github.com/angular/angular.js)
 - http://angularjs.org
 
+[device.js](https://github.com/matthewhudson/device.js)
+- Device.js makes it easy to write conditional CSS and/or JavaScript based on device operating system , orientation,and type
+
 [echarts](https://github.com/ecomfe/echarts)
 - Enterprise Charts
 
@@ -73,6 +76,9 @@ http://resume.github.com
 
 [three.js](https://github.com/mrdoob/three.js)
 - JavaScript 3D library. http://threejs.org/
+
+[to-markdown](https://github.com/domchristie/to-markdown)
+- An HTML to Markdown converter written in javascript
 
 [zTree_v3](https://github.com/zTree/zTree_v3)
 - jQuery Tree Plugin

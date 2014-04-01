@@ -69,6 +69,12 @@ http://apiblueprint.org
 [ListOfMinimalistFrameworks](https://github.com/neiesc/ListOfMinimalistFrameworks)
 - A list of minimalist frameworks (simple and lightweight).
 
+[Mars](https://github.com/AlloyTeam/Mars) `mobile`
+- 腾讯移动Web前端知识库
+
+[mobileTech](https://github.com/jtyjty99999/mobileTech) `mobile`
+- 这个项目收集移动端开发所需要的一些资源与小技巧
+
 [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 - Papers from the computer science community to read and discuss
 

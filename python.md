@@ -103,7 +103,7 @@ GitHub Starred Projects | python
 
 
 
-## flask
+##flask
 
 [eve](https://github.com/nicolaiarocci/eve)
 - REST API framework powered by Flask, MongoDB and good intentions 
@@ -120,7 +120,7 @@ GitHub Starred Projects | python
 
 
 
-## other
+##other
 
 ###e
 
@@ -146,6 +146,10 @@ GitHub Starred Projects | python
 [marshmallow](https://github.com/sloria/marshmallow)
 - **A lightweight library for converting complex objects into datatypes that can be used in a REST API.**
 
+###n
+
+[ngxtop](https://github.com/lebinh/ngxtop) `nginx`
+- Real-time metrics for nginx server
 
 ###p
 

@@ -22,6 +22,9 @@ http://goo.gl/coder
 [raspberrypi.md](https://gist.github.com/junstrix/5053559)
 - 陆续分享一些攻略,参考...
 
+[raspberry_pi.md](https://gist.github.com/bitkevin/8423181)
+- None
+
 [rpi-todo.md](https://gist.github.com/vancetran/4711671)
 - A collection of resources, links, and todo items as I tinker with the amazing little Raspberry Pi
 
@@ -45,3 +48,8 @@ http://goo.gl/coder
 ##other
 [rpi-update](https://github.com/Hexxeh/rpi-update)
 - An easier way to update the firmware of your Raspberry Pi
+
+
+##Product
+[WALL-E](https://github.com/miclle/WALL-E)
+- WELL·E Robot. A Raspberry Pi, Arduino Robot, Using Ruby control
