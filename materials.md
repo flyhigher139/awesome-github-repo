@@ -126,6 +126,9 @@ http://html5ify.com/fks/
 [javascript](https://github.com/airbnb/javascript)
 - JavaScript Style Guide
 
+[javascript.patterns](https://github.com/TooBug/javascript.patterns)
+- JavaScript Patterns 中译本
+
 
 ###angularjs
 

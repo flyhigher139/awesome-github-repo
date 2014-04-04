@@ -46,6 +46,10 @@ http://goo.gl/coder
 
 
 ##other
+
+[hugozhu/blog](https://github.com/hugozhu/blog)
+- a blog with raspberry pi topic
+
 [rpi-update](https://github.com/Hexxeh/rpi-update)
 - An easier way to update the firmware of your Raspberry Pi
 

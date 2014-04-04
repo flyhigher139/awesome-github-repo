@@ -18,8 +18,14 @@ GitHub Starred Projects | python
 [djangobook.com](https://github.com/jacobian/djangobook.com)
 - http://www.djangobook.com/
 
+[explore-flask](https://github.com/rpicard/explore-flask)
+- Source of Explore Flask book
+
 [flask-dev-bookmarks](https://github.com/humiaozuzu/flask-dev-bookmarks)
 - Lists of flask development recourses
+
+[itt2zh](https://github.com/alioth310/itt2zh)
+- Introduction to Tornado 中文翻译
 
 [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 - An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python
@@ -36,8 +42,8 @@ GitHub Starred Projects | python
 [PyZh](https://github.com/hit9/PyZh)
 - 一起写Python文章，一起看Python文章 - 利用readthedocs的Python技术文章的收集和翻译
 
-[explore-flask](https://github.com/rpicard/explore-flask)
-- Source of Explore Flask book
+[stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa)
+- stackoverflow上Python相关回答整理翻译
 
 
 <br><br>
