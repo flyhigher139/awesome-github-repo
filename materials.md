@@ -81,6 +81,9 @@ http://apiblueprint.org
 [remote-working](https://github.com/greatghoul/remote-working)
 - 收集整理远程工作相关的资料
 
+[services-engineering](https://github.com/mmcgrana/services-engineering)
+- A reading list for services engineering, with a focus on cloud infrastructure services
+
 [standards-and-practices](https://github.com/LearnProgramming/standards-and-practices)
 - A collection of documents outlining what it is that we intend to do
 
