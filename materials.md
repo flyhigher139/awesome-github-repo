@@ -33,6 +33,9 @@ http://apiblueprint.org
 [Code_Guide](https://github.com/Suxiaogang/Code_Guide)
 - Code guide and best practice
 
+[favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
+- Obsessive cheat sheet to favicon sizes/types
+
 [free-data-science-books](https://github.com/chaconnewu/free-data-science-books)
 - Free resources for learning data science
 
@@ -60,8 +63,14 @@ http://apiblueprint.org
 [Front-end-Developer-Questions](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions)
 - 2014年最新前端开发面试题
 
+[github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
+- A list of cool features of Git and GitHub.
+
 [influential-programming-books](https://github.com/chhantyal/influential-programming-books)
 - Most influential computer science/programming books
+ 
+[interview](https://github.com/andreis/interview)
+- Everything you need to kick ass on your coding interview
 
 [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
 - Code documentation written as code! How novel and totally my idea!
