@@ -14,7 +14,6 @@ GitHub Starred Projects | document
 - [php](#php)
 
 ##collection
-<br>
 
 [api-blueprint](https://github.com/apiaryio/api-blueprint)
 - API Blueprint 
