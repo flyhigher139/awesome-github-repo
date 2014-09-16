@@ -15,6 +15,9 @@ GitHub Starred Projects | document
 
 ##collection
 
+[awesome-collection](https://github.com/flyhigher139/awesome-collection)
+- Yet another awesome collection
+
 [api-blueprint](https://github.com/apiaryio/api-blueprint)
 - API Blueprint 
 http://apiblueprint.org
@@ -191,6 +194,9 @@ http://openmymind.net/2011/3/28/The-Little-MongoDB-Book
 http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/
 
 ##python 
+
+[awesome-python](https://github.com/vinta/awesome-python)
+- A curated list of awesome Python frameworks, libraries and software
 
 [explore-flask](https://github.com/rpicard/explore-flask)
 - Source of Explore Flask book
