@@ -14,6 +14,8 @@ GitHub Starred Projects | python
 #Study meterials
 <a name='study_meterials'></a>
 
+[awesome-python](https://github.com/vinta/awesome-python)
+- A curated list of awesome Python frameworks, libraries and software
 
 [djangobook.com](https://github.com/jacobian/djangobook.com)
 - http://www.djangobook.com/
