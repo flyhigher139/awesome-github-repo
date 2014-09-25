@@ -26,6 +26,9 @@ GitHub Starred Projects | python
 [flask-dev-bookmarks](https://github.com/humiaozuzu/flask-dev-bookmarks)
 - Lists of flask development recourses
 
+[flask-xxl](https://github.com/jstacoder/flask-xxl)
+- A best practices approach to creating large web apps, with the goal of making flask feel more like django
+
 [itt2zh](https://github.com/alioth310/itt2zh)
 - Introduction to Tornado 中文翻译
 
@@ -114,7 +117,7 @@ GitHub Starred Projects | python
 ##flask
 
 [eve](https://github.com/nicolaiarocci/eve)
-- REST API framework powered by Flask, MongoDB and good intentions 
+- REST API framework powered by Flask, MongoDB and good intentions
 
 [flask](https://github.com/mitsuhiko/flask)
 - A microframework based on Werkzeug, Jinja2 and good intentions
@@ -137,7 +140,7 @@ GitHub Starred Projects | python
 
 [evermd](https://github.com/liushuaikobe/evermd)
 - A command line tool that make your markdown file to an Evernote
- 
+
 ###h
 
 [httpie](https://github.com/jkbr/httpie)
@@ -162,7 +165,7 @@ GitHub Starred Projects | python
 ###p
 
 [pattern](https://github.com/clips/pattern)
-- Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization. 
+- Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 http://www.clips.ua.ac.be/pages/pattern
 
 [pyodbc](https://github.com/mkleehammer/pyodbc)
@@ -181,7 +184,7 @@ http://www.clips.ua.ac.be/pages/pattern
 - markdown2: A fast and complete implementation of Markdown in Python
 
 [python-social-auth](https://github.com/omab/python-social-auth)
-- Social auth made simple 
+- Social auth made simple
 
 [python-twitter](https://github.com/bear/python-twitter)
 - A Python wrapper around the Twitter API
@@ -221,7 +224,7 @@ http://www.clips.ua.ac.be/pages/pattern
 ###t
 
 [tweepy](https://github.com/tweepy/tweepy)
-- Twitter for Python! 
+- Twitter for Python!
 
 [twosheds](https://github.com/Ceasar/twosheds)
 - Hack your shell, in Python
@@ -240,7 +243,10 @@ http://www.clips.ua.ac.be/pages/pattern
 [51dingpiao](https://github.com/huzhifeng/51dingpiao)
 - A python script used to buy ticket on 12306
 
+###z
 
+[zato](https://github.com/zatosource/zato)
+- ESB and app server in Python  https://zato.io/docs/
 
 -------------
 #Raspberry Pi
@@ -255,4 +261,3 @@ http://www.clips.ua.ac.be/pages/pattern
 
 [bypy](https://github.com/houtianze/bypy)
 - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
-

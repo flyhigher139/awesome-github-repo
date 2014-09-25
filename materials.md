@@ -19,7 +19,7 @@ GitHub Starred Projects | document
 - Yet another awesome collection
 
 [api-blueprint](https://github.com/apiaryio/api-blueprint)
-- API Blueprint 
+- API Blueprint
 http://apiblueprint.org
 
 [Best-App](https://github.com/hzlzh/Best-App)
@@ -70,7 +70,7 @@ http://apiblueprint.org
 
 [influential-programming-books](https://github.com/chhantyal/influential-programming-books)
 - Most influential computer science/programming books
- 
+
 [interview](https://github.com/andreis/interview)
 - Everything you need to kick ass on your coding interview
 
@@ -115,7 +115,7 @@ http://apiblueprint.org
 - collect and classify android open projects
 
 [android_guides](https://github.com/thecodepath/android_guides)
-- Extensive Open-Source Guides for Android Developers 
+- Extensive Open-Source Guides for Android Developers
 http://guides.thecodepath.com/
 
 
@@ -127,14 +127,14 @@ http://guides.thecodepath.com/
 ##git
 
 [progit](https://github.com/progit/progit)
-Pro Git Book Content 
+Pro Git Book Content
 http://git-scm.com/book/
 
 
 ##javascript
 
 [fks](https://github.com/JacksonTian/fks)
-- 前端技能汇总 Frontend Knowledge Structure 
+- 前端技能汇总 Frontend Knowledge Structure
 http://html5ify.com/fks/
 
 [javascript](https://github.com/airbnb/javascript)
@@ -163,7 +163,7 @@ http://html5ify.com/fks/
 - node.js中文资料导航
 
 [NodeBeginnerBook](https://github.com/manuelkiessling/NodeBeginnerBook)
-- A comprehensive Node.js tutorial for beginners 
+- A comprehensive Node.js tutorial for beginners
 http://www.NodeBeginner.org
 
 [NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning)
@@ -181,7 +181,7 @@ http://www.NodeBeginner.org
 ### mongodb
 
 [the-little-mongodb-book](https://github.com/karlseguin/the-little-mongodb-book)
-- The Little MongoDB Book 
+- The Little MongoDB Book
 http://openmymind.net/2011/3/28/The-Little-MongoDB-Book
 
 ##objective-c
@@ -193,7 +193,7 @@ http://openmymind.net/2011/3/28/The-Little-MongoDB-Book
 - The Objective-C Style Guide used by The New York Times
 http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/
 
-##python 
+##python
 
 [awesome-python](https://github.com/vinta/awesome-python)
 - A curated list of awesome Python frameworks, libraries and software
@@ -203,6 +203,9 @@ http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/
 
 [flask-dev-bookmarks](https://github.com/humiaozuzu/flask-dev-bookmarks)
 - Lists of flask development recourses
+
+[flask-xxl](https://github.com/jstacoder/flask-xxl)
+- A best practices approach to creating large web apps, with the goal of making flask feel more like django
 
 [pycrumbs](https://github.com/kirang89/pycrumbs)
 - Bits and bytes of Python from the Internet
@@ -219,6 +222,9 @@ http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/
 
 ##other
 
+[docker_practice](https://github.com/yeasy/docker_practice)
+- Learn and understand Docker, with real deployment practice!
+
 [kaiyuanbook](https://github.com/larrycai/kaiyuanbook)
 - How to write opensource books
 
@@ -228,8 +234,8 @@ http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/
 [base16](https://github.com/chriskempson/base16)
 - Color schemes for hackers
 
+[Git-Cheat-Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
+- Git Cheat Sheet
+
 [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme)
 - Tomorrow Theme the precursor to Base16 Theme
-
-
-
