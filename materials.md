@@ -237,5 +237,8 @@ http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/
 [Git-Cheat-Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
 - Git Cheat Sheet
 
+[Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet)
+- Git Cheat Sheet with Chinese Version
+
 [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme)
 - Tomorrow Theme the precursor to Base16 Theme
