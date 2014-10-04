@@ -136,6 +136,10 @@ http://git-scm.com/book/
 
 ##javascript
 
+[book-of-modern-frontend-tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
+- The Front-end Tooling Book 
+http://tooling.github.io/book-of-modern-frontend-tooling/
+
 [fks](https://github.com/JacksonTian/fks)
 - 前端技能汇总 Frontend Knowledge Structure
 http://html5ify.com/fks/
