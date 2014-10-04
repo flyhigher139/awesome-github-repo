@@ -67,6 +67,9 @@ http://apiblueprint.org
 
 [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - A list of cool features of Git and GitHub.
+ 
+[guides](https://github.com/thoughtbot/guides)
+- A guide for programming in style.
 
 [influential-programming-books](https://github.com/chhantyal/influential-programming-books)
 - Most influential computer science/programming books
