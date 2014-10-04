@@ -1,6 +1,12 @@
 GitHub Starred Projects | RaspberryPi
 =====================================
 
+##official
+
+[documentation](https://github.com/raspberrypi/documentation)
+- Official documentation for the Raspberry Pi 
+http://www.raspberrypi.org/documentation
+
 ##python
 
 [Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code)
