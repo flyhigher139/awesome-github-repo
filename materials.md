@@ -204,6 +204,9 @@ http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/
 
 [awesome-python](https://github.com/vinta/awesome-python)
 - A curated list of awesome Python frameworks, libraries and software
+ 
+[codeparkshare](https://github.com/Yixiaohan/codeparkshare)
+- Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐
 
 [explore-flask](https://github.com/rpicard/explore-flask)
 - Source of Explore Flask book
