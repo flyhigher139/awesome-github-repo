@@ -6,6 +6,7 @@ GitHub Starred Projects | document
 - [algorithm](#algorithm)
 - [android](#android)
 - [database](#database)
+- [git](#git)
 - [go](#go)
 - [javascript](#javascript)
 - [nginx](#nginx)
@@ -129,6 +130,15 @@ http://guides.thecodepath.com/
 - The Little MongoDB Book
 
 ##git
+
+[Git-Cheat-Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
+- Git Cheat Sheet
+
+[Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet)
+- Git Cheat Sheet with Chinese Version
+
+[git-flight-rules](https://github.com/k88hudson/git-flight-rules)
+- Flight rules for git - a work in progress!
 
 [progit](https://github.com/progit/progit)
 Pro Git Book Content
@@ -258,20 +268,20 @@ http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/
 [docker_practice](https://github.com/yeasy/docker_practice)
 - Learn and understand Docker, with real deployment practice!
 
-[kaiyuanbook](https://github.com/larrycai/kaiyuanbook)
-- How to write opensource books
-
 [1MarkDown](https://github.com/hzlzh/1MarkDown)
 - The only one MarkDown standard for one team.
 
+[DocumentTemplate](https://github.com/renrousousuo/DocumentTemplate)
+- 文件 Markdown 格式。方便书写各种文档。
+
+[kaiyuanbook](https://github.com/larrycai/kaiyuanbook)
+- How to write opensource books
+
+[learn-with-open-source](https://github.com/zhuangbiaowei/learn-with-open-source)
+- 借助开源项目，学习软件开发
+
 [base16](https://github.com/chriskempson/base16)
 - Color schemes for hackers
-
-[Git-Cheat-Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
-- Git Cheat Sheet
-
-[Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet)
-- Git Cheat Sheet with Chinese Version
 
 [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme)
 - Tomorrow Theme the precursor to Base16 Theme
