@@ -146,6 +146,10 @@ http://git-scm.com/book/
 - The Front-end Tooling Book 
 http://tooling.github.io/book-of-modern-frontend-tooling/
 
+[es6tutorial](https://github.com/ruanyf/es6tutorial)
+- 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性。
+http://es6.ruanyifeng.com/
+
 [fks](https://github.com/JacksonTian/fks)
 - 前端技能汇总 Frontend Knowledge Structure
 http://html5ify.com/fks/
@@ -156,6 +160,12 @@ http://html5ify.com/fks/
 [javascript.patterns](https://github.com/TooBug/javascript.patterns)
 - JavaScript Patterns 中译本
 
+[jstutorial](https://github.com/ruanyf/jstutorial)
+- Javascript tutorial book 
+http://javascript.ruanyifeng.com
+
+[js-must-watch](https://github.com/bolshchikov/js-must-watch)
+- Must-watch videos about javascript
 
 ###angularjs
 
