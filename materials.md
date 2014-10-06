@@ -6,6 +6,7 @@ GitHub Starred Projects | document
 - [algorithm](#algorithm)
 - [android](#android)
 - [database](#database)
+- [go](#go)
 - [javascript](#javascript)
 - [nginx](#nginx)
 - [objective-c](#objective-c)
@@ -133,6 +134,11 @@ http://guides.thecodepath.com/
 Pro Git Book Content
 http://git-scm.com/book/
 
+##go
+
+[wonderfogo](https://github.com/wonderfo/wonderfogo/wiki)
+- 最近对Go语言很感兴趣，所以整理相关资料，呵呵
+
 
 ##javascript
 
@@ -175,6 +181,9 @@ http://www.NodeBeginner.org
 
 [NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning)
 - This page contains collection of curated links to blog posts, articles, etc. to help you learn Node.js and keep up to date.
+ 
+[node-style-guide](https://github.com/felixge/node-style-guide)
+- A guide for styling your node.js / JavaScript code. Fork & adjust to your taste.
 
 ##nginx
 [nginx-book](https://github.com/taobao/nginx-book)
