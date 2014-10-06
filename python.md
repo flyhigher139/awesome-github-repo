@@ -35,6 +35,9 @@ GitHub Starred Projects | python
 [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 - An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python
 
+[py-must-watch](https://github.com/s16h/py-must-watch)
+- Must-watch videos about Python
+
 [python-guide](https://github.com/kennethreitz/python-guide)
 - Python best practices guidebook, written for Humans
 
@@ -154,8 +157,12 @@ GitHub Starred Projects | python
 
 ###m
 
+[magpie](https://github.com/charlesthomas/magpie)
+- Git-backed Evernote replacement
+
 [marshmallow](https://github.com/sloria/marshmallow)
 - **A lightweight library for converting complex objects into datatypes that can be used in a REST API.**
+
 
 ###n
 
@@ -216,6 +223,10 @@ http://www.clips.ua.ac.be/pages/pattern
 
 [state_machine](https://github.com/jtushman/state_machine)
 - Python State Machine for humans
+
+[storm](https://github.com/emre/storm)
+- Manage your SSH like a boss. 
+http://stormssh.readthedocs.org/en/master/
 
 [sqlmap](https://github.com/sqlmapproject/sqlmap)
 - Automatic SQL injection and database takeover tool
