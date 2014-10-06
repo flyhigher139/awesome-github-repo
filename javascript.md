@@ -98,6 +98,10 @@ http://www.kickstarter.com/projects/getify/you-dont-know-js-book-series
 - Sinatra inspired web development framework for node.js -- insanely fast, flexible, and simple 
 http://expressjs.com
 
+[gitbook](https://github.com/GitbookIO/gitbook)
+- Utility for generating books and exercises using GitHub/Git and Markdown 
+https://www.gitbook.io
+
 [marked](https://github.com/chjj/marked)
 - A markdown parser and compiler. Built for speed.
 
@@ -107,6 +111,9 @@ http://expressjs.com
 [node](https://github.com/joyent/node)
 - evented I/O for v8 javascript 
 http://nodejs.org/
+
+[node-crawler](https://github.com/sylvinus/node-crawler)
+- Web Crawler/Spider for NodeJS + server-side jQuery ;-)
 
 [stackedit](https://github.com/benweet/stackedit)
 - The Markdown editor powered by PageDown 
