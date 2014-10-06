@@ -218,6 +218,10 @@ http://www.clips.ua.ac.be/pages/pattern
 [shadowsocks](https://github.com/clowwindy/shadowsocks)
 - a lightweight tunnel proxy which can help you get through firewalls
 
+[simiki](https://github.com/tankywoo/simiki)
+- Simiki is a simple wiki framework, written in Python. 
+http://simiki.org
+
 [sinaweibopy](https://github.com/michaelliao/sinaweibopy)
 - 新浪微博Python SDK
 
