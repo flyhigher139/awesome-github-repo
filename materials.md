@@ -179,6 +179,10 @@ http://html5ify.com/fks/
 - A comprehensive Node.js tutorial for beginners
 http://www.NodeBeginner.org
 
+[node-books](https://github.com/Pana/node-books)
+- For those who love node.js 
+http://thepana.com/node-books/
+
 [NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning)
 - This page contains collection of curated links to blog posts, articles, etc. to help you learn Node.js and keep up to date.
  
