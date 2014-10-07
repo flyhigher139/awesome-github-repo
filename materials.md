@@ -116,13 +116,16 @@ http://apiblueprint.org
 
 ##android
 
+[AndroidDevTools](https://github.com/inferjay/AndroidDevTools)
+- 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。 
+http://www.androiddevtools.cn
+
 [android-open-project](https://github.com/Trinea/android-open-project)
 - collect and classify android open projects
 
 [android_guides](https://github.com/thecodepath/android_guides)
 - Extensive Open-Source Guides for Android Developers
 http://guides.thecodepath.com/
-
 
 ##database
 
@@ -289,3 +292,8 @@ http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/
 
 [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme)
 - Tomorrow Theme the precursor to Base16 Theme
+
+[colors](https://github.com/mrmrs/colors)
+- Smarter defaults for colors on the web. 
+http://clrs.cc
+
