@@ -185,6 +185,10 @@ http://javascript.ruanyifeng.com
 [angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide)
 - Community-driven set of best practices for AngularJS application development
 
+[angularjs-styleguide](https://github.com/johnpapa/angularjs-styleguide)
+- AngularJS Style Guide: A starting point for AngularJS development teams to provide consistency through good practices. 
+http://johnpapa.net
+
 
 
 ### nodejs
