@@ -1,3 +1,9 @@
+[Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
+- Design Patterns implemented in Swift
+
+[awesome-swift](https://github.com/matteocrippa/awesome-swift)
+- A collaborative list of awesome swift resources. Feel free to contribute!
+
 [swift-2048](https://github.com/austinzheng/swift-2048)
 - 2048 for Swift
 
