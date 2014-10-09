@@ -7,6 +7,7 @@ Content as follow:
 - [python](python.md)
 - [javascript](javascript.md)
 - [RaspberryPi](raspberrypi.md)
+- [swift](swift.md)
 - css
 - ...
 
