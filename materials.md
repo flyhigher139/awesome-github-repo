@@ -306,3 +306,6 @@ http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/
 - Smarter defaults for colors on the web. 
 http://clrs.cc
 
+\---
+- [google-hosts](https://github.com/txthinking/google-hosts)
+- [imouto.host](https://github.com/phoenixlzx/imouto.host)
