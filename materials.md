@@ -219,6 +219,9 @@ http://thepana.com/node-books/
 [node-style-guide](https://github.com/felixge/node-style-guide)
 - A guide for styling your node.js / JavaScript code. Fork & adjust to your taste.
 
+[nvm](https://github.com/creationix/nvm)
+- Node Version Manager - Simple bash script to manage multiple active node.js versions
+
 ##nginx
 [nginx-book](https://github.com/taobao/nginx-book)
 - Nginx开发从入门到精通
