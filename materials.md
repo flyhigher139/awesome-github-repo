@@ -210,6 +210,9 @@ http://www.NodeBeginner.org
 - For those who love node.js 
 http://thepana.com/node-books/
 
+[node-lessons](https://github.com/alsotang/node-lessons)
+- 《Node.js 包教不包会》
+
 [NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning)
 - This page contains collection of curated links to blog posts, articles, etc. to help you learn Node.js and keep up to date.
  
