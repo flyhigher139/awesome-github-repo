@@ -19,3 +19,6 @@
 [swift-playground-builder](https://github.com/jas/swift-playground-builder)
 - Create your own interactive Swift playgrounds with embedded documentation compiled from Markdown
 - http://jasonsandmeyer.com/playgrounds/
+
+[Swifter](https://github.com/mattdonnelly/Swifter)
+- A Twitter framework for iOS & OS X written in Swift
