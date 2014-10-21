@@ -114,6 +114,9 @@ http://nodejs.org/
 
 [node-crawler](https://github.com/sylvinus/node-crawler)
 - Web Crawler/Spider for NodeJS + server-side jQuery ;-)
+ 
+[nodePPT](https://github.com/ksky521/nodePPT)
+- 使用nodejs写的网络幻灯片
 
 [singlepageappbook](https://github.com/mixu/singlepageappbook)
 - Content and site generator for Single page apps in depth (my book on single page applications)
