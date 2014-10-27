@@ -107,6 +107,9 @@ http://apiblueprint.org
 [standards-and-practices](https://github.com/LearnProgramming/standards-and-practices)
 - A collection of documents outlining what it is that we intend to do
 
+[webcomponents-the-right-way](https://github.com/mateusortiz/webcomponents-the-right-way)
+- This is a guide intended to introduce to Web Components. Everyone can contribute here!
+
 ##algorithm
 <br>
 
