@@ -1,4 +1,4 @@
-Interesting GitHub repositories collected by Gevin
+Awesome GitHub Repositories collected by Gevin
 ===============================
 
 Content as follow:
