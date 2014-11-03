@@ -81,6 +81,16 @@ GitHub Starred Projects | python
 [django-extensions](https://github.com/django-extensions/django-extensions)
 - This is a repository for collecting global custom management extensions for the Django Framework
 
+[djangae](https://github.com/potatolondon/djangae)
+- The best way to run Django on Google App Engine
+
+[django-html-validator](https://github.com/peterbe/django-html-validator)
+- A tool to do validation of your HTML generated from your Django app.
+
+[django-oscar](https://github.com/tangentlabs/django-oscar/)
+- Domain-driven e-commerce for Django 
+- http://oscarcommerce.com
+
 [django-tastypie](https://github.com/toastdriven/django-tastypie)
 - Creating delicious APIs for Django apps since 2010
 
@@ -127,6 +137,10 @@ GitHub Starred Projects | python
 
 [flask-api](https://github.com/tomchristie/flask-api)
 - Browsable web APIs for Flask
+
+[flask-dance](https://github.com/singingwolfboy/flask-dance)
+- Doing the OAuth dance with style using Flask, requests, and oauthlib. 
+- https://pypi.python.org/pypi/Flask-Dance/
 
 [flask-restful](https://github.com/twilio/flask-restful)
 - Simple framework for creating REST APIs
