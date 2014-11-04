@@ -89,6 +89,9 @@ http://resume.github.com
 - A JavaScript book series launched through Kickstarter
 http://www.kickstarter.com/projects/getify/you-dont-know-js-book-series
 
+[Node.js Beginners](https://github.com/manuelkiessling/nodebeginner.org)
+- A comprehensive Node.js tutorial for beginners
+
 ##nodejs
 
 [douban.fm](https://github.com/turingou/douban.fm)
