@@ -117,6 +117,9 @@ http://apiblueprint.org
 [30min_guides](https://github.com/qinjx/30min_guides)
 - 覃健祥的学习笔记，各种几十分钟入门的文档
 
+[500lines](https://github.com/aosabook/500lines)
+- This is the source for the book 500 Lines or Less, the fourth in the [Architecture of Open Source Applications](http://aosabook.org/) series
+
 ##algorithm
 <br>
 
