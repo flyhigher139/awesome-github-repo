@@ -36,6 +36,8 @@ http://apiblueprint.org
 [CNiDev](https://github.com/lexrus/CNiDev)
 - 我关注的中文 iOS/Mac 开发小伙伴以及 TA 们的 Blog 的列表，提供 OPML 方便在阅读器里订阅哦，欢迎补充
 
+[css-creating](https://github.com/yisibl/css-creating)
+- CSS创作指南
 
 [Code_Guide](https://github.com/Suxiaogang/Code_Guide)
 - Code guide and best practice
@@ -111,6 +113,9 @@ http://apiblueprint.org
 
 [webcomponents-the-right-way](https://github.com/mateusortiz/webcomponents-the-right-way)
 - This is a guide intended to introduce to Web Components. Everyone can contribute here!
+
+[30min_guides](https://github.com/qinjx/30min_guides)
+- 覃健祥的学习笔记，各种几十分钟入门的文档
 
 ##algorithm
 <br>
