@@ -150,6 +150,10 @@ GitHub Starred Projects | python
 
 ##other
 
+###d
+[db.py](https://github.com/yhat/db.py)
+- db.py is an easier way to interact with your databases
+
 ###e
 
 [essay](https://github.com/SohuTech/essay)
@@ -162,6 +166,10 @@ GitHub Starred Projects | python
 
 [httpie](https://github.com/jkbr/httpie)
 - HTTPie is a CLI, cURL-like tool for humans
+
+[ipython](https://github.com/ipython/ipython)
+- Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc. 
+- http://ipython.org
 
 ###j
 
