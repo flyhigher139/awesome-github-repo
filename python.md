@@ -3,7 +3,7 @@ GitHub Starred Projects | python
 
 #navigation
 
-- [Study meterials](#study_meterials)
+- [Study materials](#study_materials)
 - [python](#python_proj)
     - [django](#django)
     - [flask](#flask)
@@ -11,8 +11,8 @@ GitHub Starred Projects | python
 - [raspberry pi](#RaspberryPi)
 
 
-#Study meterials
-<a name='study_meterials'></a>
+#Study materials
+<a name='study_materials'></a>
 
 [awesome-python](https://github.com/vinta/awesome-python)
 - A curated list of awesome Python frameworks, libraries and software
