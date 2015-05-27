@@ -3,16 +3,13 @@ GitHub Starred Projects | python
 
 #navigation
 
-- [Study materials](#study_materials)
-- [python](#python_proj)
-    - [django](#django)
-    - [flask](#flask)
-    - [other](#other)
-- [raspberry pi](#RaspberryPi)
+* [MD](#MD)
+* [Django](#Django)
+* [Flask](#Flask)
+* [Other](#Other)
 
 
-#Study materials
-<a name='study_materials'></a>
+#MD
 
 [awesome-python](https://github.com/vinta/awesome-python)
 - A curated list of awesome Python frameworks, libraries and software
@@ -60,74 +57,89 @@ GitHub Starred Projects | python
 - Trying to complete over 100 projects in various categories in Python. Fork to learn any new language.
 
 [projects](https://github.com/mikar/projects)
-- yet another active version forked from above
+- Yet another active version forked from above
 
 [python-patterns](https://github.com/faif/python-patterns)
 - **A collection of design patterns in python**
 
 ---
 
-#python
-<a name='python_proj'></a>
-
-## django
-
-[djangoproject.com](https://github.com/django/djangoproject.com)
-- Source code to djangoproject.com
-
-[django-shorturls](https://github.com/jacobian/django-shorturls)
-- A URL shortening app for Django
-
-[django-extensions](https://github.com/django-extensions/django-extensions)
-- This is a repository for collecting global custom management extensions for the Django Framework
+#Django
 
 [djangae](https://github.com/potatolondon/djangae)
 - The best way to run Django on Google App Engine
 
+[django-cms](https://github.com/divio/django-cms)
+- The easy-to-use and developer-friendly CMS
+
+[django-compressor](https://github.com/django-compressor/django-compressor)
+- Compresses linked and inline javascript or CSS into a single cached file.
+
+[django-configurations](https://github.com/jezdez/django-configurations)
+- A helper for organizing Django project settings by relying on well established programming patterns
+
+[django-extensions](https://github.com/django-extensions/django-extensions)
+- This is a repository for collecting global custom management extensions for the Django Framework
+
+[django-faq](https://github.com/howiworkdaily/django-faq)
+- a simple faq application for django apps
+
+[django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter)
+- A boilerplate for Django web applications
+
 [django-html-validator](https://github.com/peterbe/django-html-validator)
 - A tool to do validation of your HTML generated from your Django app.
+
+[django-import-export](https://github.com/django-import-export/django-import-export)
+- Django application and library for importing and exporting data with admin integration.
 
 [django-oscar](https://github.com/tangentlabs/django-oscar/)
 - Domain-driven e-commerce for Django 
 - http://oscarcommerce.com
 
-[django-tastypie](https://github.com/toastdriven/django-tastypie)
-- Creating delicious APIs for Django apps since 2010
-
-[django-compressor](https://github.com/django-compressor/django-compressor)
-- Compresses linked and inline javascript or CSS into a single cached file.
-
-[wagtail](https://github.com/torchbox/wagtail)
-- A new Django content management system
-
-[django-sql-explorer](https://github.com/epantry/django-sql-explorer)
-- Easily share data via SQL queries, right from Django
-
 [django-pyodbc](https://github.com/lionheart/django-pyodbc)
 - An ODBC-powered MS SQL Server DB backend for Django 1.4+
-
-[django-faq](https://github.com/howiworkdaily/django-faq)
-- a simple faq application for django apps
-
-[django-cms](https://github.com/divio/django-cms)
-- The easy-to-use and developer-friendly CMS
-
-[django-configurations](https://github.com/jezdez/django-configurations)
-- A helper for organizing Django project settings by relying on well established programming patterns
-
-[django-social-auth](https://github.com/omab/django-social-auth)
-- Django social authentication made simple
 
 [django-rest-framework](https://github.com/tomchristie/django-rest-framework)
 - Awesome web-browseable Web APIs
 
+[django-shorturls](https://github.com/jacobian/django-shorturls)
+- A URL shortening app for Django
+
+[django-social-auth](https://github.com/omab/django-social-auth)
+- Django social authentication made simple
+
+[django-sql-explorer](https://github.com/epantry/django-sql-explorer)
+- Easily share data via SQL queries, right from Django
+
+[django-tastypie](https://github.com/toastdriven/django-tastypie)
+- Creating delicious APIs for Django apps since 2010
+
+[django-workflows](https://github.com/diefenbach/django-workflows)
+- django-workflows provides a generic workflow engine for Django.
+
 [djangoappengine](https://github.com/django-nonrel/djangoappengine)
 - Django backends for App Engine (datastore, mail, ...)
 
+[djangoproject.com](https://github.com/django/djangoproject.com)
+- Source code to djangoproject.com
+
+[CollectorCity-Market-Place](https://github.com/StephenPower/CollectorCity-Market-Place)
+- Django Based Market Place: Auctions, Shopping Cart, Central Market, SAAS, Subscriptions, Payments, Shop Designer
+
+[viewflow](https://github.com/viewflow/viewflow)
+- Reusable workflow library for Django
+
+[wagtail](https://github.com/torchbox/wagtail)
+- A new Django content management system
+
+[workflow](https://github.com/ntoll/workflow)
+- A lightweight workflow engine application for Django based web-applications
 
 
 
-##flask
+
+#Flask
 
 [eve](https://github.com/nicolaiarocci/eve)
 - REST API framework powered by Flask, MongoDB and good intentions
@@ -148,7 +160,7 @@ GitHub Starred Projects | python
 
 
 
-##other
+#Other
 
 ###d
 [db.py](https://github.com/yhat/db.py)
@@ -285,16 +297,3 @@ http://stormssh.readthedocs.org/en/master/
 [zato](https://github.com/zatosource/zato)
 - ESB and app server in Python  https://zato.io/docs/
 
--------------
-#Raspberry Pi
-<a name='RaspberryPi'></a>
-
-[Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code)
-- Adafruit library code for Raspberry Pi
-
-
-----------------
-#Something else
-
-[bypy](https://github.com/houtianze/bypy)
-- Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
